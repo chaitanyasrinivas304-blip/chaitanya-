@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kubera cafe</title>
+<style>
+    body{color: aliceblue;}
+</style>
+
+</head>
+<link rel="stylesheet" href="background.css">
+<body>
+<nav class="navbar">
+        <div class="">kubera cafe</div>
+
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#search">Search</a></li>
+            <li><a href="#signin">Sign In</a></li>
+        </ul>
+    </nav>
+
+    <section id="Home">
+       <center><h1> *Welcome To Kubera Cafe* </h1></center>
+    </section>
+    <center><img src="kubera cafe logo.jpeg" height="450" width="600"></center>
+    <br>
+    <h2>Coffees:</h2>
+    <ol>
+    <li>Espresso</li>
+    <li>Latte</li>
+    <li>Cappucino</li>
+    <li>Cafe latte</li>
+    <li>Mocha</li>
+    <li>Cold coffee</li>
+    <li>Filter coffee</li>
+    </ol>
+    <br>
+    <h2>Snacks</h2>
+    <ol>
+    <li>Butter Crossiant</li>
+    <li>Chocolate Muffine</li>
+    <li>Cinnamon Roll</li>
+    <li>Veg Sandwich</li>
+    <li>Chesse Toast</li>
+    <li>French Fries</li>
+    <li>cookies</li>
+    </ol>
+    <br>
+    <h2>Drinks & More</h2>
+    <ol>
+    <li>Blue Ocean</li>
+    <li>Orange Mocktail</li>
+    <li>Virgin Majito</li>
+    <li>Virgin Pina Colada</li>
+    <li>Blue Lagon</li>
+    <li>Fruit Punch</li>
+    </ol>
+    <br>
+    <br>
+    <h3>Menu Card: </h3>
+    <img src="kubera cafe menu coffe and snaks.jpeg" height="400"">
+    <br><br>
+    <img src="kubera mocktails.jpeg" height="400">
+    <p>Note:the prices are changes twice in a month</p>
+    <br><br>
+    <h3>Address:</h3>
+    <img src="kubera location.jpeg" height="400">
+    <address><a href="https://www.google.com/maps/place/cafe+kubera/@16.5051392,80.6651258,17z/data=!4m6!3m5!1s0x3a35fb005978ebd1:0xe1e6d9260ed92a41!8m2!3d16.5049438!4d80.664879!16s%2Fg%2F11lcm4js58?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D">link for direct location</a></address>
+    <br><br>
+    <center><h1>THANK YOU !!</h1></center>
+
+</body>
+</html>
